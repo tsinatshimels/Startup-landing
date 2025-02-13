@@ -1,10 +1,12 @@
 #root {
-  max-width: 100%;
-  margin: 0 auto;
-  padding: 2rem;
+  width: 100%;
+
+  /* padding: 1rem; */
   text-align: center;
 }
-
+.flex {
+  display: flex !important;
+}
 .logo {
   height: 6em;
   padding: 1.5em;
